@@ -8,3 +8,5 @@ Randomly generates a simple character for Pathfinder
 4. Size and abilities are set
 
 Depending on the class that is selected, abilities are prioritized over others for higher scores
+
+![Alt text](screenshot.PNG)
