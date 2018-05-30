@@ -1,0 +1,15 @@
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.csprojAssemblyReference.cache
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\MainWindow.g.cs
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\App.g.cs
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet_MarkupCompile.cache
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet_MarkupCompile.lref
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\MainWindow.baml
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.g.resources
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.cache
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.csproj.CoreCompileInputs.cache
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\samfu\Documents\Personal Projects\CharacterSheetGenerator\CharacterSheetGenerator\CharacterSheet\obj\Debug\CharacterSheet.pdb
